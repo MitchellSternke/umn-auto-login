@@ -19,5 +19,5 @@ Save the file.
 
 ## Installation
 
-Drag and drop `umn_auto_login.user.js' into your browser's extensions/user scripts page.
+Drag and drop `umn_auto_login.user.js` into your browser's extensions/user scripts page.
 It should install automatically.
